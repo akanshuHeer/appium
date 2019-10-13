@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb777ee0-46fd-4186-bdbf-cc8576fd44b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/AcceptanceTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/AcceptanceTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/FindClassPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/MorePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/MyBookingsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/MyProfilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/SettingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/stepdefinitions/StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/stepdefinitions/StepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/steps/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/steps/Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/FindClass/classDetails.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/FindClass/findClass.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Home/home.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/MyBookings/myBookings.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/MyProfile/myProfile.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login/registrationPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login/registrationPage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/regularUser/regularUser.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/settings/settingPage.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/trialUser/trailuser.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.android.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.android.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/stepdefinitions/StepDefinitions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/serenity.android.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/serenity.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="93" lean-forward="true" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/steps/Steps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/login/login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>credit1</find>
+      <find>The platform is</find>
+      <find>user opens registration page</find>
+      <find>user clicks on signup link</find>
+      <find>user_clicks_on_signup_link</find>
+      <find>verify that plan page is shown</find>
+      <find>verify_that_plan_page_is_shown()</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/TestStripeApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/teststripeapi/Stripe.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/teststripeapi/Customer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/teststripeapi/StripeUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/MyBookingsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/MyProfilePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/teststripeapi/TestStripeApi.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/serenity.android.properties" />
+        <option value="$PROJECT_DIR$/src/test/resources/serenity.properties" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/login/login.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/stepdefinitions/StepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/FindClass/classDetails.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/FindClass/findClass.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Home/home.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/login/registrationPage.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/MyBookings/myBookings.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/MyProfile/myProfile.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/regularUser/regularUser.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/settings/settingPage.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/trialUser/trailuser.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/steps/Steps.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-17" />
+    <option name="y" value="18" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="C:/android-sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570897589469" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Verify select plan page functionality">
+    <configuration name="Scenario: Verify select plan page functionality" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login/login.feature" />
+      <option name="GLUE" value="com.fitsetappium.serenity.cucumber.features.stepdefinitions net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="fitset-aapium" />
+      <option name="NAME_FILTER" value="^Verify select plan page functionality$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Verify select plan page functionality$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify select plan page functionality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify that The user's first name should appear after Hello" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Home/home.feature" />
+      <option name="GLUE" value="com.fitsetappium.serenity.cucumber.features.stepdefinitions net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="fitset-aapium" />
+      <option name="NAME_FILTER" value="^Verify that The user\'s first name should appear after Hello$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Verify that The user\'s first name should appear after Hello$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that The user's first name should appear after Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify that proper error messages displays on forgot password page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login/login.feature" />
+      <option name="GLUE" value="com.fitsetappium.serenity.cucumber.features.stepdefinitions net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="fitset-aapium" />
+      <option name="NAME_FILTER" value="^Verify that proper error messages displays on forgot password page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Verify that proper error messages displays on forgot password page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that proper error messages displays on forgot password page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify that sign up button opens registration page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login/login.feature" />
+      <option name="GLUE" value="com.fitsetappium.serenity.cucumber.features.stepdefinitions net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="fitset-aapium" />
+      <option name="NAME_FILTER" value="^Verify that sign up button opens registration page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Verify that sign up button opens registration page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that sign up button opens registration page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStripeApi.cancelAllSubscriptionAndStartNewSubscriptionWithThreePlanForRegularUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fitset-aapium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fitsetappium.serenity.cucumber.features.teststripeapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fitsetappium.serenity.cucumber.features.teststripeapi" />
+      <option name="MAIN_CLASS_NAME" value="com.fitsetappium.serenity.cucumber.features.teststripeapi.TestStripeApi" />
+      <option name="METHOD_NAME" value="cancelAllSubscriptionAndStartNewSubscriptionWithThreePlanForRegularUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Verify select plan page functionality" />
+        <item itemvalue="Cucumber java.Scenario: Verify that sign up button opens registration page" />
+        <item itemvalue="Cucumber java.Scenario: Verify that proper error messages displays on forgot password page" />
+        <item itemvalue="Cucumber java.Scenario: Verify that The user's first name should appear after Hello" />
+        <item itemvalue="JUnit.TestStripeApi.cancelAllSubscriptionAndStartNewSubscriptionWithThreePlanForRegularUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb777ee0-46fd-4186-bdbf-cc8576fd44b6" name="Default Changelist" comment="" />
+      <created>1550646370226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550646370226</updated>
+      <workItem from="1550646372567" duration="4740000" />
+      <workItem from="1550721616556" duration="29462000" />
+      <workItem from="1550924544829" duration="7040000" />
+      <workItem from="1550981109624" duration="8586000" />
+      <workItem from="1551015869705" duration="585000" />
+      <workItem from="1551271250926" duration="3149000" />
+      <workItem from="1551324156580" duration="1802000" />
+      <workItem from="1551413471513" duration="6246000" />
+      <workItem from="1551521830279" duration="15539000" />
+      <workItem from="1551584146649" duration="1697000" />
+      <workItem from="1551615148250" duration="4706000" />
+      <workItem from="1551757350129" duration="3718000" />
+      <workItem from="1552103407511" duration="9572000" />
+      <workItem from="1552538233087" duration="199000" />
+      <workItem from="1552802167769" duration="636000" />
+      <workItem from="1552829029009" duration="73000" />
+      <workItem from="1561696367777" duration="462000" />
+      <workItem from="1570784875947" duration="4465000" />
+      <workItem from="1570873987971" duration="4636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Scenario__Verify_that_sign_up_button_opens_registration_page - 2019.10.12 at 15h 51m 18s.xml">
+      <configuration name="Scenario: Verify that sign up button opens registration page" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_that_sign_up_button_opens_registration_page - 2019.10.12 at 15h 54m 50s.xml">
+      <configuration name="Scenario: Verify that sign up button opens registration page" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_that_sign_up_button_opens_registration_page - 2019.10.12 at 21h 18m 35s.xml">
+      <configuration name="Scenario: Verify that sign up button opens registration page" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_that_sign_up_button_opens_registration_page - 2019.10.12 at 21h 20m 01s.xml">
+      <configuration name="Scenario: Verify that sign up button opens registration page" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_that_sign_up_button_opens_registration_page - 2019.10.12 at 21h 38m 44s.xml">
+      <configuration name="Scenario: Verify that sign up button opens registration page" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_select_plan_page_functionality - 2019.10.12 at 21h 39m 19s.xml">
+      <configuration name="Scenario: Verify select plan page functionality" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_select_plan_page_functionality - 2019.10.12 at 21h 46m 37s.xml">
+      <configuration name="Scenario: Verify select plan page functionality" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_that_sign_up_button_opens_registration_page - 2019.10.12 at 21h 52m 18s.xml">
+      <configuration name="Scenario: Verify that sign up button opens registration page" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_that_sign_up_button_opens_registration_page - 2019.10.12 at 21h 54m 06s.xml">
+      <configuration name="Scenario: Verify that sign up button opens registration page" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_select_plan_page_functionality - 2019.10.12 at 21h 54m 40s.xml">
+      <configuration name="Scenario: Verify select plan page functionality" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="107313000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21331316" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.0867347" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15476191" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17857143" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.091836736" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-core/2.0.18/serenity-core-2.0.18-sources.jar!/net/thucydides/core/pages/PageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/TestStripeApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/teststripeapi/Stripe.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/teststripeapi/Customer.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/teststripeapi/TestStropeApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/teststripeapi/StripeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#181#197#0" expanded="true" />
+            <element signature="e#870#886#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/SettingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/utils/TestDataSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/MyBookingsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/teststripeapi/TestStripeApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="32" column="73" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="107" column="26" lean-forward="true" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/FindClassPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="61" column="21" selection-start-line="57" selection-start-column="8" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="43" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/FindClass/classDetails.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/FindClass/findClass.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="62" lean-forward="true" selection-start-column="1" selection-end-line="67" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Home/home.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="28" column="14" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/login/registrationPage.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="40" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/MyBookings/myBookings.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="43" column="59" lean-forward="true" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/MyProfile/myProfile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="91" lean-forward="true" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/regularUser/regularUser.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="21" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/settings/settingPage.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="136" lean-forward="true" selection-start-column="1" selection-end-line="26" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/trialUser/trailuser.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="23" column="57" selection-start-column="1" selection-end-line="97" selection-end-column="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/stepdefinitions/StepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/pages/MyProfilePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fitsetappium/serenity/cucumber/features/steps/Steps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/login/login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/serenity.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="93" lean-forward="true" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/serenity.android.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
